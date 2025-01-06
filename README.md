@@ -54,14 +54,6 @@ A Python-based Telnet automation script.
 
 ---
 
-## 📚 Education
-- **Diploma in Information Technology**
-  R.C Technical Institute, CGPA: 8.75 (2022-2025)
-- **10th Grade**: GSHEB, Percentage: 82.5% (2020)
-- **12th Science**: GSHEB, Percentage: 59% (2022)
-
----
-
 ## 🏆 Strengths
 - Quick to learn new technologies
 - Excellent problem-solving abilities
@@ -71,7 +63,6 @@ A Python-based Telnet automation script.
 ---
 
 ## 📫 Connect With Me
-- **Mobile**: +91 9913738057
 - **Email**: mohammadsadik894@gmail.com
 - **LinkedIn**: [Mohammad Sadik Ansari](https://www.linkedin.com/in/mohammad-sadik-ansari-68b421297)
 - **Email**: mohammadsadik894@gmail.com
